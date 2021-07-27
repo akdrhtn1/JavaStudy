@@ -1,5 +1,7 @@
 package com.mystudy.bean_vo;
 
+import com.mystudy.bean_vo.StudentVO;
+
 public class StudentManager {
 
 	public static void main(String[] args) {
