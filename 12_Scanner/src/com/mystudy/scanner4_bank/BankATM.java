@@ -21,6 +21,7 @@ public class BankATM {
 
 			if (userChoice == 0) {
 				System.out.println("프로그램을 종료하겠습니다.");
+				scan.close();
 				break;
 			}
 			switch (userChoice) {
